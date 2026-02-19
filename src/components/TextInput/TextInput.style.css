@@ -1,0 +1,19 @@
+.text-input {
+  background-color: transparent;
+  border-radius: 24px;
+  font-size: 16px;
+  line-height: 150%;
+  color: #1e1e1e;
+  border: 1px solid;
+  border-color: #1e1e1e;
+  width: 360px;
+  padding: 12px;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
+.text-input::placeholder {
+  color: #1e1e1e;
+  text-align: center;
+}
