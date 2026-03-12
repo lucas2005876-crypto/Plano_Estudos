@@ -1,1 +1,1 @@
-Projeto para controlar assuntos a estudar. Peguei o projeto com algumas coisas básicas prontas e apliquei o necessário para funcionar.
+Projeto pessoal feito para praticar o uso de React.
